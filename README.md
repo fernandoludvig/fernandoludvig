@@ -58,7 +58,8 @@ Professional portfolio showcasing development journey
 
 ## 🌐 Connect with Me
 
-https://www.linkedin.com/in/fernando-ludvig-06664a230/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-ludvig-06664a230/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-nine-lyart-34.vercel.app/)
 
 ---
 
