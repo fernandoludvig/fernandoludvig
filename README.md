@@ -1,66 +1,34 @@
-# 👋 Hi, I'm Fernando Cardoso Ludvig
+# Olá, eu sou o Fernando 👋
 
-Software Engineering student passionate about building innovative web solutions that solve real-world problems. Currently pursuing a dual degree at Unicesumar (Brazil) and BYU-Idaho (USA).
+AI Automation Engineer. Construo agentes e automações de IA usando n8n, Make, Zapier, Albato, APIs REST e LLMs, e estou migrando de low-code para desenvolvimento em código com LangChain e LangGraph. Também curso Software Development na BYU-Idaho e Engenharia de Software na UniCesumar.
 
-## 🚀 About Me
+Baseado em Florianópolis, Brasil.
 
-- 🎓 Double major: Software Engineering (Unicesumar) & Applied Science in Software Development (BYU-Idaho)
-- 💼 Systems Support Analyst at DataJuri
-- 🌍 Based in Florianópolis, Brazil
-- 🔧 Focused on modern web technologies and AI-assisted development
-- 📫 Reach me: fernandoludvig0804@gmail.com
+## 🚀 Projetos em destaque
 
-## 💻 Skills & Technologies
+**[rdstation-crm-mcp](https://github.com/fernandoludvig/rdstation-crm-mcp)**
+Servidor MCP (Model Context Protocol) open source para o RD Station CRM, publicado no npm e no registry oficial do MCP. Permite que qualquer agente de IA compatível com MCP consulte e gerencie contatos, negócios e tarefas de um CRM real. TypeScript, Zod, Vitest, CI no GitHub Actions.
 
-**Front-End Development:**
-- React.js, Next.js, TypeScript, JavaScript (ES6+)
-- HTML5, CSS3, Tailwind CSS
-- Responsive Design, shadcn/ui, UI Component Libraries
+**[email-triage-agent](https://github.com/fernandoludvig/email-triage-agent)**
+Agente autônomo que monitora uma caixa do Gmail, classifica cada e-mail com GPT-4o via LangChain e age sozinho: responde dúvidas simples, alerta urgências no Telegram, enfileira casos complexos para revisão humana. Backend em FastAPI, dashboard em Next.js.
 
-**Back-End & Databases:**
-- PHP, SQL, MySQL
-- REST API Integration
-- Python (learning)
+**[pr-code-reviewer](https://github.com/fernandoludvig/pr-code-reviewer)**
+Bot que recebe eventos de Pull Request via webhook, envia o diff pra um LLM e posta comentários de revisão diretamente no PR, com filtro de severidade, deduplicação e cache anti-reprocessamento.
 
-**Tools & Workflow:**
-- Git & GitHub, Visual Studio Code
-- Cursor AI, Claude AI (AI-assisted development)
-- Zendesk, Vercel, CI/CD pipelines
+**[sentiment-dashboard](https://github.com/fernandoludvig/sentiment-dashboard)**
+Dashboard em tempo real que analisa o sentimento de stories do Hacker News com IA e atualiza gráficos via WebSocket. FastAPI, WebSocket, OpenAI, Next.js, deploy em produção (Supabase + Render + Vercel).
 
-**Soft Skills:**
-- Complex problem-solving & debugging
-- Clear technical communication
-- Self-directed learning
-- Teamwork in multidisciplinary environments
+## 🛠️ Stack
 
-## 🎯 Featured Projects
+**IA e automação:** LangChain, LangGraph, MCP (Model Context Protocol), OpenAI API, n8n, Make, Zapier, Albato
 
-### 💰 [Investment Calculator with AI](https://calculadora-investimentos-phi.vercel.app)
-Modern web app comparing investment yields using real-time Central Bank of Brazil API data
-- **Tech Stack:** Next.js, TypeScript, React, Tailwind CSS
-- **Features:** PWA support, offline functionality, simulation history, data export
-- **Highlight:** Built with AI assistance (Cursor AI + Claude AI)
+**Desenvolvimento:** TypeScript, JavaScript, Python, Next.js, React, Google Apps Script, FastAPI
 
-### 🅿️ [Vagasc - Parking Marketplace](https://vagasc.vercel.app/)
-Platform connecting private parking owners with drivers in Florianópolis
-- **Tech Stack:** Next.js, TypeScript, React, Tailwind CSS
-- **Features:** Map integration, advanced search/filtering, modern UX
-- **Impact:** Addressing urban parking shortage (411k vehicles vs 2.4k spaces)
+**Ferramentas:** Git, GitHub Actions, Docker, Claude e Cursor para desenvolvimento assistido por IA
 
-### 🌐 [Personal Portfolio](https://portfolio-nine-lyart-34.vercel.app/)
-Professional portfolio showcasing development journey
-- **Tech Stack:** Next.js, React, Tailwind CSS
-- **Features:** Interactive UI, responsive design, project showcase
+## 📫 Contato
 
-## 📊 GitHub Stats
+- Email: fernandoludvig0804@gmail.com
+- LinkedIn: [fernando-ludvig-06664a230](https://linkedin.com/in/fernando-ludvig-06664a230)
 
-![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandoludvig&show_icons=true&theme=radical)
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-ludvig-06664a230/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-nine-lyart-34.vercel.app/)
-
----
-
-💡 *Open to on-site roles in Florianópolis or remote opportunities*
+Aberto a oportunidades remotas.
