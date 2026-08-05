@@ -1,34 +1,34 @@
-# Olá, eu sou o Fernando 👋
+# Hi, I'm Fernando 👋
 
-AI Automation Engineer. Construo agentes e automações de IA usando n8n, Make, Zapier, Albato, APIs REST e LLMs, e estou migrando de low-code para desenvolvimento em código com LangChain e LangGraph. Também curso Software Development na BYU-Idaho e Engenharia de Software na UniCesumar.
+AI Automation Engineer. I build AI agents and automations using n8n, Make, Zapier, Albato, REST APIs and LLMs, and I'm migrating from low-code to code with LangChain and LangGraph. I'm also pursuing a dual degree in Software Development at BYU-Idaho and Software Engineering at UniCesumar.
 
-Baseado em Florianópolis, Brasil.
+Based in Florianópolis, Brazil.
 
-## 🚀 Projetos em destaque
+## 🚀 Featured projects
 
 **[rdstation-crm-mcp](https://github.com/fernandoludvig/rdstation-crm-mcp)**
-Servidor MCP (Model Context Protocol) open source para o RD Station CRM, publicado no npm e no registry oficial do MCP. Permite que qualquer agente de IA compatível com MCP consulte e gerencie contatos, negócios e tarefas de um CRM real. TypeScript, Zod, Vitest, CI no GitHub Actions.
+Open source MCP (Model Context Protocol) server for the RD Station CRM, published on npm and the official MCP registry. Lets any MCP-compatible AI agent read and manage contacts, deals and tasks in a real CRM. TypeScript, Zod, Vitest, CI on GitHub Actions.
 
 **[email-triage-agent](https://github.com/fernandoludvig/email-triage-agent)**
-Agente autônomo que monitora uma caixa do Gmail, classifica cada e-mail com GPT-4o via LangChain e age sozinho: responde dúvidas simples, alerta urgências no Telegram, enfileira casos complexos para revisão humana. Backend em FastAPI, dashboard em Next.js.
+Autonomous agent that monitors a Gmail inbox, classifies each email with GPT-4o via LangChain, and acts on its own: replies to simple questions, alerts urgent issues on Telegram, queues complex cases for human review. FastAPI backend, Next.js dashboard.
 
 **[pr-code-reviewer](https://github.com/fernandoludvig/pr-code-reviewer)**
-Bot que recebe eventos de Pull Request via webhook, envia o diff pra um LLM e posta comentários de revisão diretamente no PR, com filtro de severidade, deduplicação e cache anti-reprocessamento.
+Bot that receives Pull Request events via webhook, sends the diff to an LLM, and posts review comments directly on the PR, with severity filtering, deduplication and an anti-reprocessing cache.
 
 **[sentiment-dashboard](https://github.com/fernandoludvig/sentiment-dashboard)**
-Dashboard em tempo real que analisa o sentimento de stories do Hacker News com IA e atualiza gráficos via WebSocket. FastAPI, WebSocket, OpenAI, Next.js, deploy em produção (Supabase + Render + Vercel).
+Real-time dashboard that analyzes the sentiment of Hacker News stories with AI and streams live chart updates over WebSocket. FastAPI, WebSocket, OpenAI, Next.js, deployed in production (Supabase + Render + Vercel).
 
 ## 🛠️ Stack
 
-**IA e automação:** LangChain, LangGraph, MCP (Model Context Protocol), OpenAI API, n8n, Make, Zapier, Albato
+**AI & automation:** LangChain, LangGraph, MCP (Model Context Protocol), OpenAI API, n8n, Make, Zapier, Albato
 
-**Desenvolvimento:** TypeScript, JavaScript, Python, Next.js, React, Google Apps Script, FastAPI
+**Development:** TypeScript, JavaScript, Python, Next.js, React, Google Apps Script, FastAPI
 
-**Ferramentas:** Git, GitHub Actions, Docker, Claude e Cursor para desenvolvimento assistido por IA
+**Tools:** Git, GitHub Actions, Docker, Claude and Cursor for AI-assisted development
 
-## 📫 Contato
+## 📫 Contact
 
 - Email: fernandoludvig0804@gmail.com
 - LinkedIn: [fernando-ludvig-06664a230](https://linkedin.com/in/fernando-ludvig-06664a230)
 
-Aberto a oportunidades remotas.
+Open to remote opportunities.
