@@ -1,6 +1,6 @@
 # Hi, I'm Fernando 👋
 
-AI Automation Engineer. I build AI agents and automations using n8n, Make, Zapier, Albato, REST APIs and LLMs, and I'm migrating from low-code to code with LangChain and LangGraph. I'm also pursuing a dual degree in Software Development at BYU-Idaho and Software Engineering at UniCesumar.
+AI Automation Engineer. I build AI agents and automations using n8n, Make, Zapier, Albato, REST APIs and LLMs, and I'm migrating from low-code to code with LangChain. I'm also pursuing a dual degree in Software Development at BYU-Idaho and Software Engineering at UniCesumar.
 
 Based in Florianópolis, Brazil.
 
@@ -23,7 +23,7 @@ Real-time dashboard that analyzes the sentiment of Hacker News stories with AI a
 
 ## 🛠️ Stack
 
-**AI & automation:** LangChain, LangGraph, MCP (Model Context Protocol), OpenAI API, n8n, Make, Zapier, Albato
+**AI & automation:** LangChain, MCP (Model Context Protocol), OpenAI API, n8n, Make, Zapier, Albato
 
 **Development:** TypeScript, JavaScript, Python, Next.js, React, Google Apps Script, FastAPI
 
