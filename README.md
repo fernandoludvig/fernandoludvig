@@ -6,6 +6,9 @@ Based in Florianópolis, Brazil.
 
 ## 🚀 Featured projects
 
+**[cite-or-escalate](https://github.com/fernandoludvig/cite-or-escalate)**
+Support RAG agent whose answers pass through three deterministic verifiers instead of an LLM judge: every claim and number must exist in the cited passage, the citation must be a document the retriever actually returned, and the answer may never promise to execute anything. If any check fails, the answer is escalated to a human instead of sent. 39 evaluated cases, a generated per-case report, and CI that fails the PR when grounding or escalation recall drops. Python.
+
 **[rdstation-crm-mcp](https://github.com/fernandoludvig/rdstation-crm-mcp)**
 Open source MCP (Model Context Protocol) server for the RD Station CRM, published on npm and the official MCP registry. Lets any MCP-compatible AI agent read and manage contacts, deals and tasks in a real CRM. TypeScript, Zod, Vitest, CI on GitHub Actions.
 
